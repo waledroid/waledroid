@@ -6,7 +6,7 @@
 Computer Vision Engineer x Front End Web-App Developer
 Specialty: Deep Learning & Artificial Inteligence 
 
-🌱 I’m currently learning image processing techniques with deep learning
+🌱 I’m currently learning image processing techniques with deep learning <br>
 📚 Python, Javascript, React Developement 
 ⚡ I have a strong interest in AI for Medical Diagnosis, Prognosis and Treatment
 📝 Masters in Computer Vision and Robotics (2023) 😊
