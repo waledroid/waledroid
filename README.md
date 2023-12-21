@@ -1,9 +1,9 @@
 ### Hi there 👋
-# [Atanda Abdulahi Adewale ]
+
 
 <!-- -->
-Computer Vision Engineer x Front End Web-App Developer
-Specialty: Deep Learning & Artificial Inteligence <br>
+# [Computer Vision Engineer x Front End Web-App Developer]  
+<br>Specialty: Deep Learning & Artificial Inteligence <br>
 
 🌱 I’m currently learning image processing techniques with deep learning <br>
 📚 Python, Javascript, React Developement <br>
