@@ -38,15 +38,6 @@
 - Description: Another example project with details on its objectives and outcomes.
 - Technologies: Mention tools and libraries used.
 
-## Research Experience
-
-### Research Assistant
-**University Name**, City, State | *Month Year - Present*
-- Assisting in ongoing computer vision research projects.
-- Conducting literature reviews, implementing algorithms, and analyzing results.
-
-
-
 ## Contact Information
 
 - **LinkedIn:** [https://linkedin.com/waledroid]
