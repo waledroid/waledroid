@@ -2,21 +2,14 @@
 
 <!-- -->
 # [Computer Vision Engineer x Front End Web-App Developer]  
+<br>Masters in Computer Vision and Robotics (ViBOT 2023), Universite de Bourgogne, France<br>
 <br>Specialty: Artificial Inteligence & Camera Calibration <br>
 
 📚 Strong interest in Vision based Neural Networks for Semantics Object Detection <br>
 ⚡ I also have a unbiased interest in AI for Medical Diagnosis, Prognosis and Treatment <br>
-📝 Masters in Computer Vision and Robotics (ViBOT 2023) 😊 <br>
 📚 I am an Unrepentant learner | Growth-oriented | Intentionally curious <br>
 👯 I’m always ready to collaborate with other learners <br>
 😄 Pronouns: He/Him
-
-
-## Education
-
-### Bachelor of Science in Computer Science
-**University Name**, City, State | *Month Year - Month Year*
-- Relevant coursework: Computer Vision, Machine Learning, Image Processing, Algorithms, Data Structures.
 
 ## Skills
 
