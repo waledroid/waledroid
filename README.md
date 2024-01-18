@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- -->
-# [Computer Vision Expert]  
+# < Computer Vision Expert />  
 <br>Masters in Computer Vision and Robotics (ViBOT 2023), Université de Bourgogne, France 🇫🇷<br>
 <br>Specialty: Artificial Inteligence & Camera Calibration <br>
 
