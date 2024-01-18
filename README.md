@@ -5,7 +5,7 @@
 <br>Masters in Computer Vision and Robotics (ViBOT 2023), Université de Bourgogne, France 🇫🇷<br>
 <br>Specialty: Artificial Inteligence & Camera Calibration <br>
 
-📚 Strong interest in Vision based Neural Networks for Semantics Object Detection <br>
+📚 Strong interest in Vision based Neural Networks and Transformer solutions for real-time data <br>
 👯 I’m always ready to collaborate with other learners <br>
 😄 Pronouns: He/Him
 
