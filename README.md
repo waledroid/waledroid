@@ -17,3 +17,5 @@
 - **Image Processing:** Feature Extraction, Image Segmentation, Object Detection, Image Enhancement.
 - **Front-end Web:** React, Next Js, Tailwind, Firebase, Framer Motion, WordPress, Figma, Adobe CC
 - **Tools:** Git, Jupyter Notebooks, Colab, Linux, Mac and Windows
+
+[cv](cv.pdf)
