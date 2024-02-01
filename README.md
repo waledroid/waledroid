@@ -3,9 +3,10 @@
 <!-- -->
 # < Computer Vision Expert />  
 <br>Masters in Computer Vision and Robotics (ViBOT 2023), Université de Bourgogne, France 🇫🇷<br>
-<br>Specialty: Artificial Inteligence & Camera Calibration <br>
+<br>Specialty: Real-time Object Detection & Online Camera Calibration <br>
 
-📚 Strong interest in Vision based Neural Networks and Transformer solutions for real-time data <br>
+📚 Strong interest in Vision based Neural Networks and Transformer solutions for real-time detection data <br>
+📚 ZeroShot Learning for Model improvement.   
 👯 I’m always ready to collaborate with other learners <br>
 😄 Pronouns: He/Him
 
