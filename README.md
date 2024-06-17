@@ -19,4 +19,4 @@
 - **Front-end Web:** React, Next Js, Tailwind, Firebase, Framer Motion, WordPress, Figma, Adobe CC
 - **Tools:** Git, Jupyter Notebooks, Colab, ROS, Linux, Mac and Windows
 
-[Download CV](CV_Atanda_Abdullahi_Adewale_FR.pdf)
+[Download CV](CV_ATANDA_EN_FR.pdf)
