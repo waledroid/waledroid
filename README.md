@@ -15,7 +15,7 @@
 **Bridging deep-learning research with real-world edge hardware, robotics, and industrial automation.**  
 Specialized in real-time multi-camera perception, model compression (INT8 / FP16), and deployment on NVIDIA Jetson, ROS 2, and industrial PLCs.
 
-[🌐 Live Interactive CV](https://portfolio-waledroid.netlify.app/cv.html) • [📄 CV (English PDF)](Atanda_Abdullahi_CV_EN.pdf) • [📄 CV (Français PDF)](Atanda_Abdullahi_CV_FR.pdf) • [📄 CV Complet (FR / EN)](ATANDA_CV_FR_EN_25.pdf)
+[🌐 Live Interactive CV](https://portfolio-waledroid.netlify.app/cv.html) • [📄 CV (English PDF)](Atanda_Abdullahi_CV_EN.pdf) • [📄 CV (Français PDF)](Atanda_Abdullahi_CV_FR.pdf)
 
 </div>
 
